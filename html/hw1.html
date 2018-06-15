@@ -1,0 +1,38 @@
+<html><body>
+<h3>HW1: Percolation</h3>
+<b>Examples of percolated and not percolated</b><br><br>
+<img src = "percolates.png"></img><br>
+
+<p><b>The model.</b> We model a percolation system using an N-by-N grid of sites. 
+	Each site is either open or blocked. 
+	A full site is an open site that can be connected to an open site in the top row via a chain of neighboring (left, right, up, down) open sites. 
+	We say the system percolates if there is a full site in the bottom row. 
+	In other words, a system percolates if we fill all open sites connected to the top row and that process fills some open site on the bottom row. 
+</p>
+
+<b>Input:</b><br>
+<br>
+3<br>
+1,1<br>
+2,2<br>
+3,3<br>
+2,1<br>
+2,3<br>
+3,1<br>
+3,2<br>
+<br>
+Note: The number (N) in the first row specifies size of the system: an N-by-N grid. Each of the remaining rows in the file contains a pair of integers, i.e. the coordinates (row, column), specifying the next site to be opened.
+ Please print the first coordinates that results in percolation. If the system did not percolate after handling all the sites in the file, print -1 instead.<br>
+<br>
+<b>Output:</b><br>
+<br>
+2,3<br>
+
+<p>
+<b>File to be submitted to the judge system:</b><br>
+<br>
+You are requested to design a Java class named Percolation. So, please submitted a file named: Percolation.java<br>
+</p>
+
+
+</body></html>

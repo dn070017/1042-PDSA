@@ -1,0 +1,26 @@
+<body>
+<H1>HW7 - Priority Queue</H1>
+<h3>Assignment</h3>
+<b>Hand.java</b>
+<p>請實作一份 Hand 型別。並上傳至作業 7-1。Hand 為五張撲克牌的組合，需要實作 Comparable 介面 (interface)。此作業中，我們只考慮 full house > flush > straight > two pair > one pair > high card (Reference: http://en.wikipedia.org/wiki/List_of_poker_hands) 這六種組合。詳細的 api 請參考附件。</p>
+
+<b>HandPQ.java</b>
+<p>此份作業需要同學讀進一個文字檔。文字檔的第一行會利用逗點隔開，其中包含兩個數字，第一個數字代表需要處理的 Hand 個數，第二個數字代表欲求得第幾大的 Hand。第二行開始到文件的結尾則為五張牌的組合。舉例來說，第一行為 4,3，即代表第 2~5 行為需要處理的 Hand，而答案則是要找出 2~5 行這 4 個 Hand 裡面第 3 大的 Hand。最後請輸出這個 Hand 的所有 Card (依據 Card 的大小，由小到大輸出)。</p>
+
+<h3>Example Input:</h3>
+4,3<br>
+Hearts_10,Hearts_9,Hearts_Q,Hearts_J,Hearts_8<br>
+Spades_A,Hearts_K,Hearts_10,Diamonds_4,Clubs_4<br>
+Diamonds_J,Diamonds_K,Diamonds_Q,Diamonds_10,Clubs_9<br>
+Clubs_A,Hearts_8,Diamonds_Q,Diamonds_10,Clubs_2<br><br>
+
+<h3>Example Output:</h3>
+Clubs_4,Diamonds_4,Hearts_10,Hearts_K,Spades_A
+
+<b>Note</b>
+<p>1. 批改系統會獨立的批改 HW7-1 與 HW7-2，所以兩者的 Hand.java 不會互通。</p>
+<p>2. 本次作業請使用 Priority Queue 來實作，批改系統會測試程式所使用的記憶體評估分數。</p>
+<p>3. 作業中會使用到 HW6 的 Card.java，批改時會使用批改系統的 Card.java。</p>
+<p>4. HW7-1 可以從 HW6 的 Player.java 經過部分的修改後建構。</p>
+<b>Files: </b><a href="hw7.zip">hw7.zip</a><br><br>
+</body>

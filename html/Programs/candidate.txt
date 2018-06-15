@@ -1,0 +1,145 @@
+hw0:
+0	hw0-diff//r03522826-410-10/Diff.java	hw0-diff//r03522831-411-10/Diff.java
+0	hw0-diff//r04921044-155-10/Diff.java	hw0-diff//r04921094-52-10/Diff.java
+hw1:
+0	hw1-diff//r03522826-327-10/Diff.java	hw1-diff//r03522831-554-10/Diff.java
+0	hw1-diff//r03631015-578-10/Diff.java	hw1-diff//r04631026-410-10/Diff.java
+0	hw1-diff//r03631015-578-10/Diff.java	hw1-diff//r04631046-397-10/Diff.java
+0	hw1-diff//r04228027-598-10/Diff.java	hw1-diff//r04921104-67-10/Diff.java
+0	hw1-diff//r04631026-410-10/Diff.java	hw1-diff//r04631046-397-10/Diff.java
+hw2:
+0	hw2-diff//r04522616-449-10/Diff.java	hw2-diff//r04522627-623-10/Diff.java
+0	hw2-diff//r04631026-539-9/Diff.java	hw2-diff//r04631031-533-9/Diff.java
+hw3:
+0	hw3-diff//r03631015-302-6/Diff.java	hw3-diff//r04631026-305-6/Diff.java
+0	hw3-diff//r03631015-302-6/Diff.java	hw3-diff//r04631031-304-6/Diff.java
+0	hw3-diff//r03631015-310-10/Diff.java	hw3-diff//r04631026-309-10/Diff.java
+0	hw3-diff//r03631015-310-10/Diff.java	hw3-diff//r04631041-179-10/Diff.java
+0	hw3-diff//r04631026-305-6/Diff.java	hw3-diff//r04631031-304-6/Diff.java
+0	hw3-diff//r04631026-309-10/Diff.java	hw3-diff//r04631041-179-10/Diff.java
+0	hw3-diff//r04631031-317-0/Diff.java	hw3-diff//r04631046-313-0/Diff.java
+0	hw3-diff//r04631031-318-0/Diff.java	hw3-diff//r04631046-313-0/Diff.java
+0	hw3-diff//r04631031-319-0/Diff.java	hw3-diff//r04631046-313-0/Diff.java
+0	hw3-diff//r04631031-320-10/Diff.java	hw3-diff//r04631046-314-10/Diff.java
+0	hw3-diff//r04631031-321-0/Diff.java	hw3-diff//r04631046-313-0/Diff.java
+0	hw3-diff//r04631031-322-0/Diff.java	hw3-diff//r04631046-313-0/Diff.java
+0	hw3-diff//r04631031-324-0/Diff.java	hw3-diff//r04631046-313-0/Diff.java
+0	hw3-diff//r04631031-325-10/Diff.java	hw3-diff//r04631046-314-10/Diff.java
+hw4:
+0	hw4-diff//b03611023-75-10/Diff.java	hw4-diff//b03611038-661-10/Diff.java
+0	hw4-diff//r03522826-672-10/Diff.java	hw4-diff//r03522831-678-10/Diff.java
+0	hw4-diff//r03631015-557-9/Diff.java	hw4-diff//r04631026-563-9/Diff.java
+0	hw4-diff//r03631015-557-9/Diff.java	hw4-diff//r04631031-605-9/Diff.java
+0	hw4-diff//r03631015-557-9/Diff.java	hw4-diff//r04631046-618-9/Diff.java
+0	hw4-diff//r04631026-563-9/Diff.java	hw4-diff//r04631031-605-9/Diff.java
+0	hw4-diff//r04631026-563-9/Diff.java	hw4-diff//r04631046-618-9/Diff.java
+0	hw4-diff//r04631031-605-9/Diff.java	hw4-diff//r04631046-618-9/Diff.java
+hw5-1:
+0	hw5-1-diff//r03631015-537-5/Diff.java	hw5-1-diff//r04631026-536-5/Diff.java
+0	hw5-1-diff//r03631015-537-5/Diff.java	hw5-1-diff//r04631031-538-5/Diff.java
+0	hw5-1-diff//r03631015-537-5/Diff.java	hw5-1-diff//r04631046-541-5/Diff.java
+0	hw5-1-diff//r04631021-237-3/Diff.java	hw5-1-diff//r04631027-465-3/Diff.java
+0	hw5-1-diff//r04631026-536-5/Diff.java	hw5-1-diff//r04631031-538-5/Diff.java
+0	hw5-1-diff//r04631026-536-5/Diff.java	hw5-1-diff//r04631046-541-5/Diff.java
+0	hw5-1-diff//r04631031-538-5/Diff.java	hw5-1-diff//r04631046-541-5/Diff.java
+hw5-2:
+0	hw5-2-diff//r03522826-195-4/Diff.java	hw5-2-diff//r03522831-263-4/Diff.java
+0	hw5-2-diff//r03522826-196-4/Diff.java	hw5-2-diff//r03522831-263-4/Diff.java
+0	hw5-2-diff//r03522826-197-4/Diff.java	hw5-2-diff//r03522831-263-4/Diff.java
+0	hw5-2-diff//r03631015-301-3/Diff.java	hw5-2-diff//r04631026-286-3/Diff.java
+0	hw5-2-diff//r03631015-301-3/Diff.java	hw5-2-diff//r04631031-291-3/Diff.java
+0	hw5-2-diff//r03631015-301-3/Diff.java	hw5-2-diff//r04631046-298-3/Diff.java
+0	hw5-2-diff//r04631026-286-3/Diff.java	hw5-2-diff//r04631031-291-3/Diff.java
+0	hw5-2-diff//r04631026-286-3/Diff.java	hw5-2-diff//r04631046-298-3/Diff.java
+0	hw5-2-diff//r04631031-291-3/Diff.java	hw5-2-diff//r04631046-298-3/Diff.java
+0	hw5-2-diff//r04921012-116-5/Diff.java	hw5-2-diff//r04921065-275-5/Diff.java
+hw6-1:
+0	hw6-1-diff//b03611023-57-5/Diff.java	hw6-1-diff//b03611038-358-5/Diff.java
+0	hw6-1-diff//r04631026-377-5/Diff.java	hw6-1-diff//r04631031-390-5/Diff.java
+0	hw6-1-diff//r04631026-377-5/Diff.java	hw6-1-diff//r04631046-385-5/Diff.java
+0	hw6-1-diff//r04631031-390-5/Diff.java	hw6-1-diff//r04631046-385-5/Diff.java
+hw6-2:
+0	hw6-2-diff//b02611002-609-2/Diff.java	hw6-2-diff//r04631009-380-2/Diff.java
+0	hw6-2-diff//b03611023-86-5/Diff.java	hw6-2-diff//b03611038-387-5/Diff.java
+0	hw6-2-diff//r03522826-470-5/Diff.java	hw6-2-diff//r03522831-532-5/Diff.java
+0	hw6-2-diff//r03522826-472-5/Diff.java	hw6-2-diff//r03522831-532-5/Diff.java
+0	hw6-2-diff//r04228027-571-5/Diff.java	hw6-2-diff//r04921104-101-5/Diff.java
+0	hw6-2-diff//r04631021-242-5/Diff.java	hw6-2-diff//r04631027-489-5/Diff.java
+0	hw6-2-diff//r04631021-242-5/Diff.java	hw6-2-diff//r04631036-271-5/Diff.java
+0	hw6-2-diff//r04631026-541-5/Diff.java	hw6-2-diff//r04631031-567-5/Diff.java
+0	hw6-2-diff//r04631026-541-5/Diff.java	hw6-2-diff//r04631046-554-5/Diff.java
+0	hw6-2-diff//r04631027-489-5/Diff.java	hw6-2-diff//r04631036-271-5/Diff.java
+0	hw6-2-diff//r04631031-567-5/Diff.java	hw6-2-diff//r04631046-554-5/Diff.java
+hw7-1:
+0	hw7-1-diff//r03522826-151-3/Diff.java	hw7-1-diff//r03522831-174-3/Diff.java
+0	hw7-1-diff//r03631015-175-3/Diff.java	hw7-1-diff//r04631009-129-3/Diff.java
+0	hw7-1-diff//r03631015-175-3/Diff.java	hw7-1-diff//r04631026-170-3/Diff.java
+0	hw7-1-diff//r03631015-175-3/Diff.java	hw7-1-diff//r04631031-172-3/Diff.java
+0	hw7-1-diff//r03631015-175-3/Diff.java	hw7-1-diff//r04631041-96-3/Diff.java
+0	hw7-1-diff//r03631015-175-3/Diff.java	hw7-1-diff//r04631046-171-3/Diff.java
+0	hw7-1-diff//r04631009-129-3/Diff.java	hw7-1-diff//r04631026-170-3/Diff.java
+0	hw7-1-diff//r04631009-129-3/Diff.java	hw7-1-diff//r04631031-172-3/Diff.java
+0	hw7-1-diff//r04631009-129-3/Diff.java	hw7-1-diff//r04631041-96-3/Diff.java
+0	hw7-1-diff//r04631009-129-3/Diff.java	hw7-1-diff//r04631046-171-3/Diff.java
+0	hw7-1-diff//r04631026-170-3/Diff.java	hw7-1-diff//r04631031-172-3/Diff.java
+0	hw7-1-diff//r04631026-170-3/Diff.java	hw7-1-diff//r04631041-96-3/Diff.java
+0	hw7-1-diff//r04631026-170-3/Diff.java	hw7-1-diff//r04631046-171-3/Diff.java
+0	hw7-1-diff//r04631031-172-3/Diff.java	hw7-1-diff//r04631041-96-3/Diff.java
+0	hw7-1-diff//r04631031-172-3/Diff.java	hw7-1-diff//r04631046-171-3/Diff.java
+0	hw7-1-diff//r04631041-96-3/Diff.java	hw7-1-diff//r04631046-171-3/Diff.java
+hw7-2:
+0	hw7-2-diff//r03522826-339-7/Diff.java	hw7-2-diff//r03522831-390-7/Diff.java
+0	hw7-2-diff//r03631015-391-7/Diff.java	hw7-2-diff//r04631009-374-7/Diff.java
+0	hw7-2-diff//r03631015-391-7/Diff.java	hw7-2-diff//r04631026-378-7/Diff.java
+0	hw7-2-diff//r03631015-391-7/Diff.java	hw7-2-diff//r04631031-388-7/Diff.java
+0	hw7-2-diff//r03631015-391-7/Diff.java	hw7-2-diff//r04631041-322-7/Diff.java
+0	hw7-2-diff//r03631015-391-7/Diff.java	hw7-2-diff//r04631046-380-7/Diff.java
+0	hw7-2-diff//r04522616-389-7/Diff.java	hw7-2-diff//r04522627-216-7/Diff.java
+0	hw7-2-diff//r04631009-374-7/Diff.java	hw7-2-diff//r04631026-378-7/Diff.java
+0	hw7-2-diff//r04631009-374-7/Diff.java	hw7-2-diff//r04631031-388-7/Diff.java
+0	hw7-2-diff//r04631009-374-7/Diff.java	hw7-2-diff//r04631041-322-7/Diff.java
+0	hw7-2-diff//r04631009-374-7/Diff.java	hw7-2-diff//r04631046-380-7/Diff.java
+0	hw7-2-diff//r04631026-378-7/Diff.java	hw7-2-diff//r04631031-388-7/Diff.java
+0	hw7-2-diff//r04631026-378-7/Diff.java	hw7-2-diff//r04631041-322-7/Diff.java
+0	hw7-2-diff//r04631026-378-7/Diff.java	hw7-2-diff//r04631046-380-7/Diff.java
+0	hw7-2-diff//r04631031-388-7/Diff.java	hw7-2-diff//r04631041-322-7/Diff.java
+0	hw7-2-diff//r04631031-388-7/Diff.java	hw7-2-diff//r04631046-380-7/Diff.java
+0	hw7-2-diff//r04631041-322-7/Diff.java	hw7-2-diff//r04631046-380-7/Diff.java
+hw8:
+0	hw8-diff//b02611019-156-0/Diff.java	hw8-diff//b02611028-441-0/Diff.java
+0	hw8-diff//b02611019-157-10/Diff.java	hw8-diff//b02611028-442-10/Diff.java
+0	hw8-diff//b03611003-184-10/Diff.java	hw8-diff//b03611015-185-10/Diff.java
+0	hw8-diff//b03611023-247-10/Diff.java	hw8-diff//b03611038-297-10/Diff.java
+0	hw8-diff//f02631008-423-6/Diff.java	hw8-diff//r03631015-466-6/Diff.java
+0	hw8-diff//f02631008-423-6/Diff.java	hw8-diff//r04631026-464-6/Diff.java
+0	hw8-diff//f02631008-423-6/Diff.java	hw8-diff//r04631031-481-6/Diff.java
+0	hw8-diff//f02631008-423-6/Diff.java	hw8-diff//r04631046-476-6/Diff.java
+0	hw8-diff//r03522831-529-10/Diff.java	hw8-diff//r04631041-495-10/Diff.java
+0	hw8-diff//r03525008-216-10/Diff.java	hw8-diff//r04525016-222-10/Diff.java
+0	hw8-diff//r03631015-466-6/Diff.java	hw8-diff//r04631026-464-6/Diff.java
+0	hw8-diff//r03631015-466-6/Diff.java	hw8-diff//r04631031-481-6/Diff.java
+0	hw8-diff//r03631015-466-6/Diff.java	hw8-diff//r04631046-476-6/Diff.java
+0	hw8-diff//r04631009-501-6/Diff.java	hw8-diff//r04631041-480-6/Diff.java
+0	hw8-diff//r04631026-464-6/Diff.java	hw8-diff//r04631031-481-6/Diff.java
+0	hw8-diff//r04631026-464-6/Diff.java	hw8-diff//r04631046-476-6/Diff.java
+0	hw8-diff//r04631031-481-6/Diff.java	hw8-diff//r04631046-476-6/Diff.java
+hw9:
+0	hw9-diff//b01703032-144-10/Diff.java	hw9-diff//r03525008-35-10/Diff.java
+0	hw9-diff//b03611023-34-10/Diff.java	hw9-diff//b03611038-317-10/Diff.java
+0	hw9-diff//b03611023-34-10/Diff.java	hw9-diff//b03611038-326-10/Diff.java
+0	hw9-diff//f02631008-337-10/Diff.java	hw9-diff//r04631025-308-10/Diff.java
+0	hw9-diff//f02631008-337-10/Diff.java	hw9-diff//r04631036-175-10/Diff.java
+0	hw9-diff//r03522826-319-10/Diff.java	hw9-diff//r03522831-318-10/Diff.java
+0	hw9-diff//r03522826-319-10/Diff.java	hw9-diff//r04631041-341-10/Diff.java
+0	hw9-diff//r03522831-318-10/Diff.java	hw9-diff//r04631041-341-10/Diff.java
+0	hw9-diff//r03631015-346-10/Diff.java	hw9-diff//r04631026-330-10/Diff.java
+0	hw9-diff//r03631015-346-10/Diff.java	hw9-diff//r04631031-335-10/Diff.java
+0	hw9-diff//r03631015-346-10/Diff.java	hw9-diff//r04631046-334-10/Diff.java
+0	hw9-diff//r04631025-308-10/Diff.java	hw9-diff//r04631036-175-10/Diff.java
+0	hw9-diff//r04631026-330-10/Diff.java	hw9-diff//r04631031-335-10/Diff.java
+0	hw9-diff//r04631026-330-10/Diff.java	hw9-diff//r04631046-334-10/Diff.java
+0	hw9-diff//r04631031-335-10/Diff.java	hw9-diff//r04631046-334-10/Diff.java
+0	hw9-diff//r04631036-173-5/Diff.java	hw9-diff//r04945022-159-5/Diff.java
+0	hw9-diff//r04945021-64-10/Diff.java	hw9-diff//r04945039-161-10/Diff.java
+hw10:
+0	hw10-diff//r03522826-248-10/Diff.java	hw10-diff//r03522831-249-10/Diff.java

@@ -1,0 +1,23 @@
+/*
+.
+ * To change this template file, choose Tools | Templates
+.
+ */
+
+/**
+ *
+ * @author Arthur
+ */
+public class HW5_2 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        int a=7;
+        System.out.printf(""%d"",a);
+        // TODO code application logic here
+    }
+    
+}
+

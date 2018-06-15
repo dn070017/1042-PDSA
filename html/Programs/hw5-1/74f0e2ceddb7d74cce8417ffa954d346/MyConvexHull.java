@@ -1,0 +1,211 @@
+import java.io.FileReader;
+import java.io.BufferedReader;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
+        
+public class MyConvexHull {
+    private static int readtimes;
+    private static Double distance;
+    private static WeightedQuickUnionUF uf;
+    private static Point2D[] PointsArray;
+    private static HashMap<Point2D,Integer> vertex;
+    private static int[] idmap; 
+    private static int CC =1;
+    private static int CCnum;
+  
+    public static int[] convertIntegers(List<Integer> integers)
+{
+    int[] ret = new int[integers.size()];
+    Iterator<Integer> iterator = integers.iterator();
+    for (int i = 0; i < ret.length; i++)
+    {
+        ret[i] = iterator.next().intValue();
+    }
+    return ret;
+}
+    
+    
+    
+    public static int[] ConvexHullVertex(Point2D[] a) {
+        setID(a);
+        ArrayList<Integer> ans = new ArrayList<>();       
+        GrahamScan graham = new GrahamScan(a);
+       
+        for (Point2D p : graham.hull()){
+           ans.add(vertex.get(p));}
+        
+        int [] A = new int[ans.size()];
+        
+        A=convertIntegers(ans);
+        Arrays.sort(A);
+        
+        
+        return A;
+    }
+    
+    
+//    idmap= new int[readtimes];
+//        
+//        UnionFilter(a);
+//        int[] ans = new int[readtimes];
+//        
+//       for (int r=1;r<=CC;r++){
+//           
+//       System.out.println(CCcomponent(r, idmap));      
+//       }
+//       
+//        return ans;
+    
+    private static void setID (Point2D[] c){
+        int index = 0;
+        int len = c.length;
+        vertex= new HashMap<Point2D, Integer>();
+        for(int times=0;times<len;times++){
+        vertex.put(c[times], index);
+        index++;
+        }
+    }
+    
+    private static int getID (Point2D x){
+        int id = vertex.get(x);
+        return id;
+    }
+    
+    
+    
+   
+    private static void UnionFilter(Point2D[] m){
+    
+    uf = new WeightedQuickUnionUF(readtimes);
+    
+    
+    for (int i=0;i<readtimes-1;i++) {
+        for(int j=i+1;j<readtimes;j++){
+            //System.out.println(m[i].distanceTo(m[j]));
+            if(m[i].distanceTo(m[j])<distance) {
+                //System.out.println(m[i].distanceTo(m[j]));
+                
+                int a=vertex.get(m[i]);
+                int b=vertex.get(m[j]);
+                System.out.println(a+"",""+b);
+                uf.union(a, b);
+                CalaculateCC(a, b);                
+            }          
+        }
+         
+    }
+
+    
+}
+
+
+    
+    public static void CalaculateCC(int a,int b) {
+        
+        
+        if(alreadyCC(a)){
+            System.out.println(alreadyCC(a));
+           idmap[b]=idmap[a];
+        }
+        else{
+            idmap[a]=CC;
+            idmap[b]=CC;
+            CC++;
+            
+        }       
+   
+    }
+    
+    
+   private static boolean alreadyCC(int x){
+       return idmap[x]!=0;
+       
+}
+
+   
+   
+//   public static int[] CCcomponent(int iter,int[] array){
+//       int [] gan = new int[readtimes]; 
+//        for (int shit=0;shit<array.length;shit++){
+//            if (array[shit]==iter);
+//            gan[]=shit;
+//            
+//        }
+//}
+   
+   
+   
+   
+//   public static void CCProcessor (){
+//        Object ConInput =new Object();
+//        for (int r=1;r<=CCnum;r++){
+//           ConInput = CCcomponent(r, idmap);
+//           int size = ConInput.length;
+//           Point2D[] ConvexInput = new Point2D[size];
+//           ConvexInput=vertex.get(ConInput);
+//        }
+//        
+//        
+//   }
+      
+   
+    
+
+
+//    private void SumConvexPoint (){
+        
+//    }
+   
+   
+//    public static void ConvexBuild(int[] ids){
+//        Stack<Integer> CCConvex = new Stack<Integer>();
+//        vertex.get();
+//        
+//        
+//        
+//    }
+    
+    public static void main(String[] args) throws Exception {
+        
+        try(BufferedReader br = new BufferedReader(new FileReader(args[0]))){
+        // 1. read in the file containing N 2-dimentional points
+        // 2. create an edge for each pair of points with a distance <= d
+        // 3. find connected components (CCs) with a size >= 3
+        // 4. for each CC, find its convex hull vertices by calling ConvexHullVertex(a[])
+        // 5. count the number of points in N serving as a convex hull vertex, print it
+        
+        
+        distance = Double.parseDouble(br.readLine());
+        readtimes = Integer.parseInt(br.readLine());
+        PointsArray= new Point2D[readtimes];
+        int pos=0; 
+        
+        for(String coordinate;( coordinate = br.readLine()) != null; ) {
+            String[] cor=coordinate.split("" "");
+            Double x = Double.parseDouble(cor[0]);
+            Double y = Double.parseDouble(cor[1]);
+        Point2D p = new Point2D(x, y); 
+        PointsArray[pos]=p;
+        pos++;
+            }      
+        
+       
+        //System.out.println(ConvexHullVertex(PointsArray));
+        
+        //getID();
+         }
+        catch (Exception error){
+            //continue;
+        }
+        
+        
+    }
+    }
+    
+    
+    
+
+
